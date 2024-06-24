@@ -1,4 +1,4 @@
-22497835426933653
+22530430634585684
 2PinDupont
 CONN_61300211121_WRE
 
@@ -402,6 +402,27 @@ Battery
 Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
 Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
 battery CR-3032 coin cell vertical
+0
+2
+2
+BigCapacitor
+TAJC_AVX
+
+TAJC226M016RNJ 
+0
+2
+2
+BigCapacitor
+TAJC_AVX-L
+
+TAJC226M016RNJ 
+0
+2
+2
+BigCapacitor
+TAJC_AVX-M
+
+TAJC226M016RNJ 
 0
 2
 2
@@ -53031,6 +53052,27 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+CurrentSense
+TSOT-23-5_S5_ADI
+
+LT6106CS5-TRMPBF 
+0
+5
+5
+CurrentSense
+TSOT-23-5_S5_ADI-L
+
+LT6106CS5-TRMPBF 
+0
+5
+5
+CurrentSense
+TSOT-23-5_S5_ADI-M
+
+LT6106CS5-TRMPBF 
+0
+5
+5
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -56027,6 +56069,27 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HeadlightFet
+QNMOS1G2D3S_TO252DPAK_DIO
+
+DMN10H170SK3-13 
+0
+3
+3
+HeadlightFet
+QNMOS1G2D3S_TO252DPAK_DIO-L
+
+DMN10H170SK3-13 
+0
+3
+3
+HeadlightFet
+QNMOS1G2D3S_TO252DPAK_DIO-M
+
+DMN10H170SK3-13 
+0
+3
+3
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -61417,6 +61480,34 @@ solder jumper open
 0
 5
 3
+LDO
+HRP5_ROM
+
+BA90DD0WHFP-TR 
+0
+6
+6
+LDO
+HRP5_ROM-L
+
+BA90DD0WHFP-TR 
+0
+6
+6
+LDO
+HRP5_ROM-M
+
+BA90DD0WHFP-TR 
+0
+6
+6
+LEDScrewTerm
+CONN2_710002_WRE
+
+691137710002 
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -62558,6 +62649,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Logo
+logo
+
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -65827,6 +65925,13 @@ IR Receiver Vishay TSOP-xxxx MOLD
 0
 3
 3
+Optoisolator
+5pin SO6_TOS
+
+TLP2355TPL_E 
+0
+5
+5
 Oscillator
 Oscillator_DIP-8
 Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
@@ -85910,6 +86015,13 @@ B3B-EH-ALFSN
 0
 3
 3
+ShuntResistor
+TO220_LTO_VIS
+
+LTO050FR0100JTE3 
+0
+2
+2
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -87023,6 +87135,27 @@ Logo WEEE
 0
 0
 0
+TempSensor
+SOT-23_MC_MCH
+
+MCP9700T-E/TT 
+0
+3
+3
+TempSensor
+SOT-23_MC_MCH-L
+
+MCP9700T-E/TT 
+0
+3
+3
+TempSensor
+SOT-23_MC_MCH-M
+
+MCP9700T-E/TT 
+0
+3
+3
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
